@@ -1,0 +1,87 @@
+leftnav:
+- identifier: aa0d9596-85ed-13eb-a90d-6eada6b7431f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 937532cd-8391-09b9-eacc-92b56e08aa42
+  name: Class Videos
+  pageRef: /video_galleries/class-videos
+  weight: 30
+- identifier: e393895e-f4cd-10d1-90cb-ed9fb80b9c63
+  name: Readings
+  pageRef: /pages/readings
+  weight: 40
+- identifier: 53eb06cd-7b3e-79fb-df11-1d7113543de6
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 4221dc69-ff75-ca0a-ea59-69510fe3a970
+  name: Student Presentations
+  pageRef: /pages/student-presentations
+  weight: 60
+- identifier: e393895e-f4cd-10d1-90cb-ed9fb80b9c63
+  name: Readings
+  pageRef: /pages/readings
+  weight: 70
+- identifier: 53eb06cd-7b3e-79fb-df11-1d7113543de6
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: 4221dc69-ff75-ca0a-ea59-69510fe3a970
+  name: Student Presentations
+  pageRef: /pages/student-presentations
+  weight: 90
+- identifier: 80e2be4e-ae3d-5248-7177-57645d9798fc
+  name: An Interdisciplinary Approach
+  pageRef: /resources/an-interdisciplinary-approach
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 10
+- identifier: 19ad9470-e1f1-7224-3655-d06b52e8aac6
+  name: Political Context for the Course
+  pageRef: /resources/political-context-for-the-course
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 20
+- identifier: 29083557-ed2b-f83e-5bf4-d8a0474b1917
+  name: Framing Cultural Phenomena as Technologies
+  pageRef: /resources/framing-cultural-phenomena-as-technologies
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 30
+- identifier: f3ed2f9a-ae59-59bd-b0fc-10dd726a3d5c
+  name: 'Anchoring the Course with #StayWoke'
+  pageRef: /resources/anchoring-the-course-with-staywoke
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 40
+- identifier: c5d291c0-c74b-239a-48c9-6b261f8524fe
+  name: Leveraging the Humanities to Break Walls and Build Bridges
+  pageRef: /resources/leveraging-the-humanities-to-break-walls-and-build-bridges
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 50
+- identifier: 00cd3baf-54a9-c9e2-53a7-ffe9eb30b2d7
+  name: Advancing Social Justice
+  pageRef: /resources/advancing-social-justice
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 60
+- identifier: f0e13c21-7b8f-e433-6ccc-6f500d1985c0
+  name: Critical Computational Empowerment
+  pageRef: /resources/critical-computational-empowerment
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 70
+- identifier: 347ce05f-ea26-112f-8dd8-a842a566d16e
+  name: Building on the Personal
+  pageRef: /resources/building-on-the-personal
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 80
+- identifier: 25a76a35-4146-99f5-6c5c-9bf0e1137e9f
+  name: Teaching a Wider Audience
+  pageRef: /resources/teaching-a-wider-audience
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 90
+- identifier: 46d9cf19-f28c-cb05-acaf-71a432625473
+  name: Unlocking Knowledge through MIT OpenCourseWare
+  pageRef: /resources/unlocking-knowledge-through-mit-opencourseware
+  parent: 0fc04d10-cf5a-2ac5-e783-8c3cc68ff777
+  weight: 100
